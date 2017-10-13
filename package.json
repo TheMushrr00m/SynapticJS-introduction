@@ -1,0 +1,11 @@
+{
+  "name": "Synaptic_introduction",
+  "version": "0.0.1",
+  "description": "Simple SynapticJS introduction",
+  "main": "app.js",
+  "author": "Gabriel Cueto <@Mushr00m_Dev>",
+  "license": "MIT",
+  "dependencies": {
+    "synaptic": "^1.1.3"
+  }
+}
